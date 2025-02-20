@@ -1,0 +1,42 @@
+[
+  {
+    "name": "linuxq3ademo-1.11-6.x86.gz.sh",
+    "compressed": 49292197,
+    "checksum": 857908472
+  },
+  {
+    "name": "linuxq3apoint-1.32b-3.x86.run",
+    "compressed": 30914987,
+    "checksum": 296843703
+  },
+  {
+    "name": "baseq3/pak100.pk3",
+    "compressed": 69910821,
+    "checksum": 3524036935
+  },
+  {
+    "name": "baseq3/pak101.pk3",
+    "compressed": 6570099,
+    "checksum": 1760049705
+  },
+  {
+    "name": "cpma/cpm1a.pk3",
+    "compressed": 2225575,
+    "checksum": 2269543307
+  },
+  {
+    "name": "cpma/cpm22.pk3",
+    "compressed": 2825648,
+    "checksum": 3249209727
+  },
+  {
+    "name": "cpma/cpm3a.pk3",
+    "compressed": 3675781,
+    "checksum": 559604397
+  },
+  {
+    "name": "cpma/pak100.pk3",
+    "compressed": 6299786,
+    "checksum": 1787998258
+  }
+]
